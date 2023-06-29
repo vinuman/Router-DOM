@@ -1,0 +1,11 @@
+.link {
+  color: white;
+  margin-right: 3rem;
+  text-decoration: none;
+  padding: 0.2rem;
+}
+
+.active {
+  color: red;
+  background-color: #fff;
+}
